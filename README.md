@@ -18,3 +18,13 @@ sudo apt-get install fonts-cantarell fonts-droid fonts-roboto fonts-noto
 ```
 - [Hack Font](http://sourcefoundry.org/hack/)
 - [Source Code Pro](http://askubuntu.com/questions/193072/how-to-use-the-new-adobe-source-code-pro-font)
+
+## Editors
+
+### Atom
+
+``` bash
+sudo add-apt-repository -y ppa:webupd8team/atom
+sudo apt-get update
+sudo apt-get install atom
+```
