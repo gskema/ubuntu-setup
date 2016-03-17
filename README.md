@@ -10,6 +10,22 @@ Update package list, upgrades them and removes all unnecessary pacakges
 sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade && sudo apt-get -y autoremove && sudo apt-get autoclean
 ```
 
+## Themes, Icons
+
+- [Arc Theme](https://github.com/horst3180/Arc-theme)
+- [Vertex Theme](https://github.com/horst3180/vertex-theme)
+
+### Numix Theme
+
+``` bash
+sudo add-apt-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get install numix-*
+```
+
+- [Numix Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer)
+
+
 ## Fonts
 
 ``` bash
