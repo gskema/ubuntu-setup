@@ -52,3 +52,13 @@ sudo add-apt-repository -y ppa:webupd8team/brackets
 sudo apt-get update
 sudo apt-get install brackets
 ```
+
+### PhpStorm
+
+#### PhpStorm Plugins
+
+- [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622?pr=idea)
+- [GitHub markdown](https://plugins.jetbrains.com/search/index?pr=idea&search=Gfm)
+- [Apache config (.htaccess) support](https://plugins.jetbrains.com/plugin/6834?pr=idea)
+- [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=idea)
+- [.ignore](https://plugins.jetbrains.com/plugin/7495?pr=idea)
