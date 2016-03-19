@@ -14,6 +14,7 @@ sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade &
 
 - [Arc Theme](https://github.com/horst3180/Arc-theme)
 - [Vertex Theme](https://github.com/horst3180/vertex-theme)
+- [Ambiance & Radiance Flat](http://www.ravefinity.com/p/download-ambiance-radiance-flat-colors.html)
 
 ### Numix Theme
 
