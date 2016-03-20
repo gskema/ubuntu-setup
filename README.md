@@ -63,3 +63,10 @@ sudo apt-get install brackets
 - [Apache config (.htaccess) support](https://plugins.jetbrains.com/plugin/6834?pr=idea)
 - [EditorConfig](https://plugins.jetbrains.com/plugin/7294?pr=idea)
 - [.ignore](https://plugins.jetbrains.com/plugin/7495?pr=idea)
+
+## Developer Tools
+
+### Composer
+
+- [Composer Download Page](https://getcomposer.org/download/)
+- [Composer Global Installation](https://getcomposer.org/doc/00-intro.md#globally)
