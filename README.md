@@ -56,6 +56,8 @@ sudo apt-get install brackets
 
 ### PhpStorm
 
+- [PhpStorm Download Page](https://www.jetbrains.com/phpstorm/)
+
 #### PhpStorm Plugins
 
 - [Php Inspections (EA Extended)](https://plugins.jetbrains.com/plugin/7622?pr=idea)
