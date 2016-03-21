@@ -72,3 +72,12 @@ sudo apt-get install brackets
 
 - [Composer Download Page](https://getcomposer.org/download/)
 - [Composer Global Installation](https://getcomposer.org/doc/00-intro.md#globally)
+
+### Node.js & NPM
+
+``` bash
+sudo apt-get install git nodejs
+sudo ln -s /usr/bin/nodejs /usr/bin/node
+sudo apt-get install npm
+sudo npm install npm -g
+```
