@@ -1,7 +1,7 @@
 ![Ubuntu](http://i.imgur.com/YcPevAu.jpg)
 ![Linux](http://i.imgur.com/y7tCjqG.jpg)
 
-# Ubuntu Setup
+# Ubuntu Web Developer Setup
 
 My ubuntu setup guide, configuration snippets and scripts.
 
