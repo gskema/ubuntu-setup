@@ -13,6 +13,11 @@ Update package list, upgrades them and removes all unnecessary pacakges
 sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade && sudo apt-get -y autoremove && sudo apt-get autoclean
 ```
 
+## Browser
+
+- [Chrome](http://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
+- [Fix ‘Failed To Fetch’ Apt Error on Ubuntu](http://www.omgubuntu.co.uk/2016/03/fix-failed-to-fetch-google-chrome-apt-error-ubuntu)
+
 ## Themes, Icons
 
 - [Arc Theme](https://github.com/horst3180/Arc-theme)
