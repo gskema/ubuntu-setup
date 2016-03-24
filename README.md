@@ -13,6 +13,10 @@ Update package list, upgrades them and removes all unnecessary pacakges
 sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade && sudo apt-get -y autoremove && sudo apt-get autoclean
 ```
 
+## GNOME
+
+- [GNOME Shell Extensions](https://extensions.gnome.org/)
+
 ## Browser
 
 - [Chrome](http://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
