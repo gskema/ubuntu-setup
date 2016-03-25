@@ -21,6 +21,12 @@ sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade &
 mysql -u username -p database_name < file.sql
 ```
 
+### Ignore file permission changes in git root
+
+``` bash
+git config core.fileMode false
+```
+
 ## GNOME
 
 - [GNOME Shell Extensions](https://extensions.gnome.org/)
