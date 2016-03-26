@@ -27,9 +27,12 @@ mysql -u username -p database_name < file.sql
 git config core.fileMode false
 ```
 
-## GNOME
+## System
 
 - [GNOME Shell Extensions](https://extensions.gnome.org/)
+- [Redshift](https://github.com/jonls/redshift)
+- [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
+
 
 ## Browser
 
