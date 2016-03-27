@@ -110,3 +110,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-get install npm
 sudo npm install npm -g
 ```
+
+### Compass
+
+- [Compass](http://compass-style.org/install)
