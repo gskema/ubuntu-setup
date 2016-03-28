@@ -27,6 +27,12 @@ mysql -u username -p database_name < file.sql
 git config core.fileMode false
 ```
 
+### Optimize Composer autoload
+
+``` bash
+composer dump-autoload -o
+```
+
 ## System
 
 - [GNOME Shell Extensions](https://extensions.gnome.org/)
