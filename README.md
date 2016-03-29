@@ -38,7 +38,7 @@ composer dump-autoload -o
 - [GNOME Shell Extensions](https://extensions.gnome.org/)
 - [Redshift](https://github.com/jonls/redshift)
 - [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
-
+- [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
 
 ## Browser
 
