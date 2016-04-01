@@ -120,3 +120,7 @@ sudo npm install npm -g
 ### Compass
 
 - [Compass](http://compass-style.org/install)
+
+### PHP CodeSniffer
+
+- [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
