@@ -40,6 +40,10 @@ composer dump-autoload -o
 - [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
 - [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
 
+## Terminal, Shell
+
+- [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+
 ## Browser
 
 - [Chrome](http://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
