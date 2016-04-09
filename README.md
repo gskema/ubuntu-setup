@@ -40,6 +40,10 @@ composer dump-autoload -o
 - [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
 - [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
 
+``` bash
+sudo apt-get install ubuntu-restricted-extras
+```
+
 ## Terminal, Shell
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
