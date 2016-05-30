@@ -12,7 +12,7 @@ My ubuntu setup guide, configuration snippets and scripts.
 Update package list, upgrades them and removes all unnecessary pacakges
 
 ``` bash
-sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y dist-upgrade && sudo apt-get -y autoremove && sudo apt-get autoclean
+sudo apt update && sudo apt -y upgrade && sudo apt -y dist-upgrade && sudo apt -y autoremove && sudo apt autoclean
 ```
 
 ### Import MySQL database dump using command line
@@ -41,7 +41,7 @@ composer dump-autoload -o
 - [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
 
 ``` bash
-sudo apt-get install ubuntu-restricted-extras
+sudo apt install ubuntu-restricted-extras
 ```
 
 ## Terminal, Shell
@@ -64,8 +64,8 @@ sudo apt-get install ubuntu-restricted-extras
 
 ``` bash
 sudo add-apt-repository ppa:numix/ppa
-sudo apt-get update
-sudo apt-get install numix-*
+sudo apt update
+sudo apt install numix-*
 ```
 
 - [Numix Hardcoded Icon Fixer](https://github.com/Foggalong/hardcode-fixer)
@@ -74,8 +74,8 @@ sudo apt-get install numix-*
 ## Fonts
 
 ``` bash
-sudo apt-get install msttcorefonts ttf-mscorefonts-installer
-sudo apt-get install fonts-cantarell fonts-droid fonts-roboto fonts-noto
+sudo apt install msttcorefonts ttf-mscorefonts-installer
+sudo apt install fonts-cantarell fonts-droid fonts-roboto fonts-noto
 ```
 - [Hack Font](http://sourcefoundry.org/hack/)
 - [Source Code Pro](http://askubuntu.com/questions/193072/how-to-use-the-new-adobe-source-code-pro-font)
@@ -87,16 +87,16 @@ sudo apt-get install fonts-cantarell fonts-droid fonts-roboto fonts-noto
 
 ``` bash
 sudo add-apt-repository -y ppa:webupd8team/atom
-sudo apt-get update
-sudo apt-get install atom
+sudo apt update
+sudo apt install atom
 ```
 
 ### Brackets
 
 ``` bash
 sudo add-apt-repository -y ppa:webupd8team/brackets
-sudo apt-get update
-sudo apt-get install brackets
+sudo apt update
+sudo apt install brackets
 ```
 
 ### PhpStorm
@@ -121,9 +121,9 @@ sudo apt-get install brackets
 ### Node.js & npm
 
 ``` bash
-sudo apt-get install git nodejs
+sudo apt install git nodejs
 sudo ln -s /usr/bin/nodejs /usr/bin/node
-sudo apt-get install npm
+sudo apt install npm
 sudo npm install npm -g
 ```
 
