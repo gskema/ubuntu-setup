@@ -12,7 +12,7 @@ My ubuntu setup guide, configuration snippets and scripts.
 Update package list, upgrades them and removes all unnecessary pacakges
 
 ``` bash
-sudo apt update && sudo apt -y upgrade && sudo apt -y dist-upgrade && sudo apt -y autoremove && sudo apt autoclean
+sudo apt update && sudo apt -y upgrade && sudo apt -y autoremove && sudo apt autoclean && sudo apt -y dist-upgrade 
 ```
 
 ### Import MySQL database dump using command line
