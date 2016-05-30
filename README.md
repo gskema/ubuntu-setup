@@ -134,3 +134,9 @@ sudo npm install npm -g
 ### PHP CodeSniffer
 
 - [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+
+### Vagrant
+
+``` bash
+sudo apt install vagrant virtualbox
+```
