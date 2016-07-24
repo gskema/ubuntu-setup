@@ -39,6 +39,7 @@ composer dump-autoload -o
 - [Redshift](https://github.com/jonls/redshift)
 - [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
 - [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
+- [TopIcons for GNOME](https://extensions.gnome.org/extension/1031/topicons/)
 
 ``` bash
 sudo apt install ubuntu-restricted-extras
