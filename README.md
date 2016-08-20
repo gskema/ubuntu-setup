@@ -47,6 +47,10 @@ sudo apt install ubuntu-restricted-extras
 
 ## Terminal, Shell
 
+``` bash
+sudo apt install zsh git
+```
+
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [GNOME Solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized)
 
