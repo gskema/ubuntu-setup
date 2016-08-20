@@ -54,6 +54,7 @@ sudo apt install ubuntu-restricted-extras
 
 - [Chrome](http://www.ubuntuupdates.org/ppa/google_chrome?dist=stable)
 - [Fix ‘Failed To Fetch’ Apt Error on Ubuntu](http://www.omgubuntu.co.uk/2016/03/fix-failed-to-fetch-google-chrome-apt-error-ubuntu)
+- [Fix source file for Chrome](http://askubuntu.com/questions/741410/skipping-acquire-of-configured-file-main-binary-i386-packages-as-repository-x)
 
 ## Themes, Icons
 
@@ -81,6 +82,13 @@ sudo apt install fonts-cantarell fonts-droid fonts-roboto fonts-noto
 - [Hack Font](http://sourcefoundry.org/hack/)
 - [Source Code Pro](http://askubuntu.com/questions/193072/how-to-use-the-new-adobe-source-code-pro-font)
 - [Google Fonts](https://www.google.com/fonts)
+- [Fira](https://github.com/mozilla/Fira)
+- [Fira Code](https://github.com/tonsky/FiraCode)
+ 
+``` bash
+mv *.ttf ~/.fonts
+sudo fc-cache -f
+```
 
 ## Editors
 
