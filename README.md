@@ -54,6 +54,7 @@ sudo apt install fonts-powerline
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Zsh Agnoster Theme](https://gist.github.com/agnoster/3712874)
+- [Change default shell (requiers restart)](http://superuser.com/questions/231735/how-do-i-change-my-default-shell-on-a-aws-instance)
 - [GNOME Solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized)
 
 ## Browser
