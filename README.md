@@ -52,6 +52,7 @@ sudo apt install zsh git
 ```
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
+- [Zsh Agnoster Theme](https://gist.github.com/agnoster/3712874)
 - [GNOME Solarized](https://github.com/Anthony25/gnome-terminal-colors-solarized)
 
 ## Browser
