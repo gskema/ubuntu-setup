@@ -49,6 +49,7 @@ sudo apt install ubuntu-restricted-extras
 
 ``` bash
 sudo apt install zsh git
+sudo apt install fonts-powerline 
 ```
 
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
