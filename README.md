@@ -69,6 +69,7 @@ sudo apt install fonts-powerline
 - [Arc Theme](https://github.com/horst3180/Arc-theme)
 - [Vertex Theme](https://github.com/horst3180/vertex-theme)
 - [Ambiance & Radiance Flat](http://www.ravefinity.com/p/download-ambiance-radiance-flat-colors.html)
+- [Paper](https://snwh.org/paper/download)
 
 ### Numix Theme
 
