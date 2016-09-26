@@ -40,6 +40,7 @@ composer dump-autoload -o
 - [Redshift geoclue2 Fix](https://github.com/jonls/redshift/issues/158)
 - [Variety Wallpapers](http://peterlevi.com/variety/how-to-install/)
 - [TopIcons for GNOME](https://extensions.gnome.org/extension/1031/topicons/)
+- [Spell Checkers](http://askubuntu.com/questions/72099/how-to-install-a-libreoffice-dictionary-spelling-check-thesaurus)
 
 ``` bash
 sudo apt install ubuntu-restricted-extras
