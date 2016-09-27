@@ -152,9 +152,14 @@ sudo npm install npm -g
 
 - [Compass](http://compass-style.org/install)
 
-### PHP CodeSniffer
+### PHP
 
 - [CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+
+```bash
+# Pass each line from the list as an argument to the command
+find . -name '*.php' | xargs -n1 php -l
+```
 
 ### Vagrant
 
