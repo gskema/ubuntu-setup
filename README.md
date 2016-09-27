@@ -161,6 +161,13 @@ sudo npm install npm -g
 find . -name '*.php' | xargs -n1 php -l
 ```
 
+### JS
+
+```
+npm i acorn
+find . -name '*.js' | xargs -n1 ./node_modules/acorn/bin/acorn --silent
+```
+
 ### Vagrant
 
 ``` bash
