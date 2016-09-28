@@ -71,6 +71,7 @@ sudo apt install fonts-powerline
 - [Vertex Theme](https://github.com/horst3180/vertex-theme)
 - [Ambiance & Radiance Flat](http://www.ravefinity.com/p/download-ambiance-radiance-flat-colors.html)
 - [Paper](https://snwh.org/paper/download)
+- [2 Icon Themes](http://www.omgubuntu.co.uk/2016/09/uniform-icon-theme-update)
 
 ### Numix Theme
 
