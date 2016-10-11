@@ -149,6 +149,8 @@ sudo apt install npm
 sudo npm install npm -g
 ```
 
+- [Yarn](https://github.com/yarnpkg/yarn)
+
 ### Compass
 
 - [Compass](http://compass-style.org/install)
