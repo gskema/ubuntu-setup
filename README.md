@@ -72,6 +72,7 @@ sudo apt install fonts-powerline
 - [Ambiance & Radiance Flat](http://www.ravefinity.com/p/download-ambiance-radiance-flat-colors.html)
 - [Paper](https://snwh.org/paper/download)
 - [2 Icon Themes](http://www.omgubuntu.co.uk/2016/09/uniform-icon-theme-update)
+- [Adapta](http://www.omgubuntu.co.uk/2016/10/install-adapta-gtk-theme-on-ubuntu)
 
 ### Numix Theme
 
